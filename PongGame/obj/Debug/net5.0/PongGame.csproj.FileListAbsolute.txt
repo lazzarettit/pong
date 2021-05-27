@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\PongGame.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\PongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\PongGame.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\PongGame.AssemblyInfo.cs
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\PongGame.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\PongGame\PongGame\bin\Debug\net5.0\PongGame.exe
+C:\Users\User\RiderProjects\PongGame\PongGame\bin\Debug\net5.0\PongGame.deps.json
+C:\Users\User\RiderProjects\PongGame\PongGame\bin\Debug\net5.0\PongGame.runtimeconfig.json
+C:\Users\User\RiderProjects\PongGame\PongGame\bin\Debug\net5.0\PongGame.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\PongGame\PongGame\bin\Debug\net5.0\PongGame.dll
+C:\Users\User\RiderProjects\PongGame\PongGame\bin\Debug\net5.0\ref\PongGame.dll
+C:\Users\User\RiderProjects\PongGame\PongGame\bin\Debug\net5.0\PongGame.pdb
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\PongGame.dll
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\ref\PongGame.dll
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\PongGame.pdb
+C:\Users\User\RiderProjects\PongGame\PongGame\obj\Debug\net5.0\PongGame.genruntimeconfig.cache
